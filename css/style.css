@@ -1,0 +1,39 @@
+
+.navbar-toggler{
+    border: none;
+    box-shadow: none !important;
+}
+
+.presentation{
+    margin-top: 100px;
+}
+
+.services{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+.services-content{
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+
+.card-service{
+    background-color: white;
+    border-radius: 5px;
+    padding: 48px 20px;
+    margin-bottom: 24px;
+}
+
+.card-service h3{
+    color: #212529;
+    font-size: 24px;
+}
+
+.card-service p{
+    color: #666666;
+}
+
+.contact{
+    margin-top: 100px;
+}
